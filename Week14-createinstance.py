@@ -12,4 +12,4 @@ instances = ec2.create_instances(
 
 # Print instance IDs
 for instance in instances:
-    print(instance.id)
+    print(instance.id)   
